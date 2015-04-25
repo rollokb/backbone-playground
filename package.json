@@ -1,0 +1,32 @@
+{
+  "name": "backbone-playground",
+  "version": "0.1.0",
+  "description": "reseaching models and collections",
+  "main": "index.js",
+  "directories": {
+    "example": "examples",
+    "test": "test"
+  },
+  "dependencies": {
+    "chai": "^2.2.0"
+  },
+  "devDependencies": {
+    "mocha": "^2.2.4"
+  },
+  "scripts": {
+    "test": "make test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/rollokb/backbone-playground.git"
+  },
+  "keywords": [
+    "npm"
+  ],
+  "author": "Rollo Konig-Brock",
+  "license": "Do what you want",
+  "bugs": {
+    "url": "https://github.com/rollokb/backbone-playground/issues"
+  },
+  "homepage": "https://github.com/rollokb/backbone-playground"
+}
